@@ -1,0 +1,19 @@
+{
+  "name": "food-review-api",
+  "version": "1.0.0",
+  "description": "A api for the FoofReview app.",
+  "main": "src/server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxim Vanchev",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.12.0"
+  }
+}
