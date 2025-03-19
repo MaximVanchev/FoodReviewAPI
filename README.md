@@ -109,7 +109,7 @@ For any questions or suggestions, please feel free to reach out:
 
 - **Maxim Vanchev**
 - GitHub: [MaximVanchev](https://github.com/MaximVanchev)
-- Email: [Your Email Address]
+- Email: maxim.van.mv@gmail.com
 
 ---
 
